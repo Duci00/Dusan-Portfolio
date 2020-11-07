@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="105.374" height="84.699" viewBox="0 0 105.374 84.699">
+  <g id="photoediticon" transform="translate(-1 -6)">
+    <path id="layer1" d="M10.615,89.7a5.169,5.169,0,0,0,5.169-5.169V27.675h89.591V84.531a5.169,5.169,0,0,1-5.169,5.169H7.169A5.169,5.169,0,0,1,2,84.531V7H33.012v6.892H91.591V27.675" fill="#f3685f" stroke="#202020" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="layer2" d="M22,60.012c0-3.274,6.03-17.229,13.783-17.229s7.236,5.341,10.337,5.341S51.289,29,59.9,29,77.133,57.428,77.133,60.012Z" transform="translate(14.458 15.904)" fill="none" stroke="#202020" stroke-miterlimit="10" stroke-width="2"/>
+    <ellipse id="layer2-2" data-name="layer2" cx="6.5" cy="7" rx="6.5" ry="7" transform="translate(30 41)" fill="none" stroke="#202020" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

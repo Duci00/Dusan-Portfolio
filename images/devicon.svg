@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108.525" height="87.22" viewBox="0 0 108.525 87.22">
+  <g id="devicon" transform="translate(-1 -7)">
+    <path id="layer1" d="M2,8H108.525V29.3H2ZM2,29.3V93.22H108.525V29.3" transform="translate(0 0)" fill="#f3685f" stroke="#262626" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="layer2" d="M52.733,30,65.161,44.2l-12.428,14.2M31.428,30,19,44.2l12.428,14.2" transform="translate(13.182 17.059)" fill="#f3685f" stroke="#262626" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <circle id="layer1-2" data-name="layer1" cx="2.898" cy="2.898" r="2.898" transform="translate(34.92 15.558)" fill="#262626"/>
+    <circle id="layer1-3" data-name="layer1" cx="2.898" cy="2.898" r="2.898" transform="translate(23.328 15.558)" fill="#262626"/>
+    <circle id="layer1-4" data-name="layer1" cx="2.898" cy="2.898" r="2.898" transform="translate(11.737 15.558)" fill="#262626"/>
+  </g>
+</svg>
